@@ -1,0 +1,7 @@
+1) browser-sync - npm install -g browser-sync
+2) install github
+
+
+
+**************************************************
+1) run browser-sync  -browser-sync start --server --directory --files "**/*"
