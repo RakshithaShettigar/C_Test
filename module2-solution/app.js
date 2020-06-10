@@ -1,7 +1,7 @@
 (function(){
 
     'use strict';
-    angular.module('myapp',[])
+    angular.module('ShoppingListCheckOff',[])
     .controller("ToBuyController",ToBuyController)
     .controller("AlreadyBoughtController",AlreadyBoughtController)
     .service("ShoppingListCheckOffService",ShoppingListCheckOffService);
